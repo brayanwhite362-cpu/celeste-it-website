@@ -264,8 +264,8 @@ h2 {
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    padding-top: 55px;
-    padding-bottom: 50px;
+    padding-top: 75px;
+    padding-bottom: 60px;
     animation: heroFadeIn 1.2s ease-out;
 }
 
