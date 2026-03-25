@@ -1751,6 +1751,43 @@ h2 {
 
 @media (max-width: 480px) {
     .hero-title {
+        font-size: 1.6rem;
+    }
+
+    .hero-badge {
+        font-size: 0.65rem;
+        padding: 4px 12px;
+    }
+
+    .hero-description {
+        font-size: 0.8rem;
+    }
+
+    .btn-primary,
+    .btn-outline {
+        width: 90%;
+        padding: 10px 20px;
+        font-size: 0.85rem;
+    }
+
+    .section-title {
+        font-size: 1.5rem;
+    }
+
+    .service-card h3 {
+        font-size: 1.1rem;
+    }
+
+    .value-stats {
+        grid-template-columns: 1fr;
+    }
+
+    .about-stats {
+        grid-template-columns: 1fr;
+    }
+}
+@media (max-width: 480px) {
+    .hero-title {
         font-size: 2rem;
     }
     
